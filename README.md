@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narcisodev&layout=compact&langs_count=7&theme=graywhite "/>
 </div>
   
-  ## Linguagens de Trabalho
+  ## Ferramentas de Trabalho
   
 <div style="display: inline_block">
   <img align="center" alt="narcisodev-PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
