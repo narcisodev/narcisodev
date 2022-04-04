@@ -1,8 +1,8 @@
 ### Olá! Sou Narciso Gomes  
  <div>
   <a href="https://github.com/narciso-gomes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=narcisodev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narcisodev&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=narciso-gomes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narciso-gomes&layout=compact&langs_count=8&theme=dark"/>
 </div>
   
   ## Ferramentas de Trabalho
