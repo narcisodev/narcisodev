@@ -19,7 +19,7 @@
 - 🌱 I’m currently learning **React Native** 
 - 💬 Ask me about **Angular, Laravel, MySql**
 - 📫 How to reach me **narcisoalmeida25@gmail.com**
-- ⚡ Fun fact **I love coffe**
+- ⚡ Fun fact **I love coffe** ☕
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
