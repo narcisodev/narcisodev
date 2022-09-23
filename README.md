@@ -15,7 +15,7 @@
   /></a>
 </p>
 
-- 🔭 I’m currently working on **celero finance** 
+- 🔭 I’m currently working on **Ng Tec Solutions** 
 - 🌱 I’m currently learning **React Native** 
 - 💬 Ask me about **Angular, Laravel, MySql**
 - 📫 How to reach me **narcisoalmeida25@gmail.com**
