@@ -23,5 +23,3 @@
   <a href="https://laravel.com/" target="_blank">Laravel</a> |
   <a href="https://www.mysql.com/" target="_blank">MySQL</a>
 </p>
-
-![snake gif](https://github.com/narciso-gomes/narciso-gomes/blob/output/github-contribution-grid-snake.svg)
